@@ -1,2 +1,3 @@
-# Webdev-Learning-Resources
-Everything about web development
+## Webdev-Learning-Resources
+
+[sindresorhus' awesome list](https://github.com/sindresorhus/awesome)
